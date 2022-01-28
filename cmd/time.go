@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/go-programing-tour/internel/timer"
+	"github.com/go-programing-tour/internal/timer"
 	"github.com/spf13/cobra"
 	"log"
 	"strconv"

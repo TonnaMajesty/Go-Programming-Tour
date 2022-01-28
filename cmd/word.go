@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/go-programing-tour/internel/word"
+	"github.com/go-programing-tour/internal/word"
 	"github.com/spf13/cobra"
 	"log"
 	"strings"
